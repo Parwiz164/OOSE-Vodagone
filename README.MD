@@ -13,13 +13,14 @@ Vodafone en Ziggo hebben de handen ineengeslagen en werken gezamenlijk aan een a
 ## Package Diagram
 
 
-![PackageDiagram](packagediagram.png)
+![Package Diagram](packagediagram.jpg)
 
 Het packagediagram is opgesteld in lagenmodel van Flower. De lagen zijn
-�	Presentation.Rest
-�	DAO
-�	Domain
-�	JDBC
+
+*	Presentation.Rest
+*	DAO
+*	Domain
+*	JDBC
 
 ## Deployment Diagram
 
