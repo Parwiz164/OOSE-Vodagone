@@ -12,16 +12,17 @@ Vodafone en Ziggo hebben de handen ineengeslagen en werken gezamenlijk aan een a
 
 ## Package Diagram
 
-![PackageDiagram](https://ibb.co/iVhjcS)
+
+![PackageDiagram](packagediagram.png)
 
 Het packagediagram is opgesteld in lagenmodel van Flower. De lagen zijn
-•	Presentation.Rest
-•	DAO
-•	Domain
-•	JDBC
+ï¿½	Presentation.Rest
+ï¿½	DAO
+ï¿½	Domain
+ï¿½	JDBC
 
 ## Deployment Diagram
 
-![Deployment Diagram](https://ibb.co/cNL4cS)
+![Deployment Diagram](deploymentdiagram.png)
 
 De Browser communiceert via REST/HTTP met de Appache Tomee Server. MySQL Database Server communiceert via JDBC-driver met de Appache Tomee Server.
